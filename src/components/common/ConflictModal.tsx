@@ -11,6 +11,7 @@ export const ConflictModal: React.FC = () => {
     <div className="modal-overlay" id="conflict-resolution-modal">
       <div className="modal-dialog">
         <div className="modal-header">
+          
           <div className="modal-title-group">
             <div className="modal-icon-badge" style={{ background: 'rgba(245, 158, 11, 0.15)', color: '#f59e0b' }}>
               <AlertTriangle size={20} />
